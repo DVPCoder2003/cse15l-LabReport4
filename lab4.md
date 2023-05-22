@@ -1,6 +1,6 @@
 # Lab Report 4
 ---
-## Hello there! For this lab I will be doing what I had done in my lab with the exact keys that I had used
+## Hello there! For this lab report I will be doing what I had done in my  15L lab with the exact keys that I had used
 
 ### Step 4: Log into ieng6
 ![Image](Lab4S4.png)
@@ -22,3 +22,4 @@
 ### Step 7: Use `Vim` to edit the code file
 - In order to change the error, we are going to use the vim command, allowing us to directly change what is needed to fix the code, which in this case is the last while loop, changing index 1 to 2. We use the `vim ListExamples.java` command for this case (I also used the `<tab>` key to autocomplete ListExamples)
 ![Image](Lab4S71.png)
+-Using the vim commands, I go down and left until I reach where I want to change
