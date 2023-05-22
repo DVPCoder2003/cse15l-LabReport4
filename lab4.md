@@ -16,3 +16,9 @@
 
 ### Step 6: Run the tests, demonstrating that they fail
 ![Image](Lab4S6.png)
+- I first used the `ls` command to see if the lab7 directory was there. After that, I used `cd lab7` to be able to go into the lab7 directory and access the files needed for this lab. As always I had pressed `<enter>` to do what I am asking it to do
+- For the actual tests, I had used a previous method that made it easier to run the tests Using `bash test.sh` and then pressing `<enter>` runs the test showing it had failed. The `test.sh` file has the different commands needed for us to do the tests, so it just makes it more efficient whenever we need to run it.
+
+### Step 7: Use `Vim` to edit the code file
+- In order to change the error, we are going to use the vim command, allowing us to directly change what is needed to fix the code, which in this case is the last while loop, changing index 1 to 2. We use the `vim ListExamples.java` command for this case (I also used the `<tab>` key to autocomplete ListExamples)
+![Image](Lab4S71.png)
