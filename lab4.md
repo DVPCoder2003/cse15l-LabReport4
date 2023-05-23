@@ -27,3 +27,6 @@ Keys Pressed: `<Down> times 30>`
 -Then I go to where I have to change (L to go right, i to go into insert mode, and then change it and save and exit using :wq)
 Keys Pressed:`<L> times 11`, `<i>`,`<backspace>`,`<2>`,`<escape>`, `<:wq>`
 ![Image](Lab4S72.png)
+### Step 8:Check the tests again showing they succeed
+- For this, I will press the `<up>` button 7 times to reach `bash test.sh` as I had used it in a previous step
+- ![Image](Lab4S8.png)
