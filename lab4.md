@@ -34,3 +34,7 @@ Keys Pressed:`<L> times 11`, `<i>`,`<backspace>`,`<2>`,`<escape>`, `<:wq>`
 
 ### Step 9: Commit and Push
 ![Image](Lab4S9.png)
+- For this, I added the ListExamples.java using `git add ListExamples.java` and then I committed using `git commmit -m "Fixed bug"` givng a message that the bug was fixed. Finally, I then used `git push` and did it.
+![Image](Lab4S92.png)
+---
+# THE END
