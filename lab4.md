@@ -22,4 +22,8 @@
 ### Step 7: Use `Vim` to edit the code file
 - In order to change the error, we are going to use the vim command, allowing us to directly change what is needed to fix the code, which in this case is the last while loop, changing index 1 to 2. We use the `vim ListExamples.java` command for this case (I also used the `<tab>` key to autocomplete ListExamples)
 ![Image](Lab4S71.png)
--Using the vim commands, I go down and left until I reach where I want to change
+- Using the vim commands, I go down and left until I reach where I want to change
+Keys Pressed: `<Down> times 30>`
+-Then I go to where I have to change (L to go right, i to go into insert mode, and then change it and save and exit using :wq)
+Keys Pressed:`<L> times 11`, `<i>`,`<backspace>`,`<2>`,`<escape>`, `<:wq>`
+![Image](Lab4S72.png)
