@@ -28,5 +28,9 @@ Keys Pressed: `<Down> times 30>`
 Keys Pressed:`<L> times 11`, `<i>`,`<backspace>`,`<2>`,`<escape>`, `<:wq>`
 ![Image](Lab4S72.png)
 ### Step 8:Check the tests again showing they succeed
-- For this, I will press the `<up>` button 7 times to reach `bash test.sh` as I had used it in a previous step
-- ![Image](Lab4S8.png)
+- For this, I will press the `<up>` button 7 times to reach `bash test.sh` as I had used it in a previous step. I then pressed `<enter>` to start the command
+![Image](Lab4S8.png)
+- It does work, which shows that the changes did work
+
+### Step 9: Commit and Push
+![Image](Lab4S9.png)
